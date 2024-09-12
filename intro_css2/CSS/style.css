@@ -1,0 +1,17 @@
+/*Typography and text-align*/
+h1 {
+    font-family: "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+/*Image height and width*/
+img {
+    height: auto;
+    width: 300px;
+    margin: auto;
+    display: block;
+}
