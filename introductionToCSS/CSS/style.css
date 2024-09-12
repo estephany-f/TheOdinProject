@@ -1,0 +1,41 @@
+/*introduction to css*/
+*{
+    color: purple;
+}
+div{
+    color: red;
+}
+
+/*selector class*/
+.alert-text{
+    color: blue;
+}
+
+/*selector ID*/
+#title{
+    color: black;
+    background-color: red;
+}
+
+/*Chain Selectors*/
+.subsection.header{
+    color: red;
+}
+
+.subsection#preview{
+    color: yellow;
+}
+
+/*color and background-color*/
+.test1{
+    /*HEX example*/
+    color: #1100ff;
+}
+.test2{
+    /*RGB example*/
+    color: rgb(100, 0, 127);
+}
+.test3{
+    /*HSL example*/
+    color: hsl(15, 82%, 56%);
+}
