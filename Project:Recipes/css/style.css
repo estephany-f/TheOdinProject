@@ -1,0 +1,32 @@
+body{
+    background-color: #e48e8e;
+}
+h1{
+    font-family: 'Times New Roman';
+    font-size: 80px;
+    text-align: center;
+    color: #000;
+    margin: 0px;
+    margin-top: 50px;
+}
+
+.btn{
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    background-color: #dd2828;
+    color: #000;
+    padding: 15px 32px;
+    font-size: 35px;
+    border-radius: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.btn:hover{
+    background-color: #ff4400e5;
+}
+
+.link{
+    text-align: center;
+    margin-top: 150px;
+}
