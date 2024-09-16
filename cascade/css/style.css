@@ -1,0 +1,19 @@
+/*Specificity*/
+/*rule 1 */
+#subsection{
+    color: brown;
+    background-color: yellow;
+}
+
+/*rule 2*/
+.main #subsection{
+    color: red;
+}
+
+/*Inheritance*/
+#parent{
+    color: orange;
+}
+.child{
+    color: blue;
+}
