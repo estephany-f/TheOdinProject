@@ -1,0 +1,68 @@
+body{
+    background-color: #e67878;
+}
+h1{
+    font-family: 'Times New Roman';
+    font-size: 80px;
+    text-align: center;
+    color: #000;
+    margin: 0px;
+    margin-top: 50px;
+}
+
+a{
+    text-align: center;
+    /* display: inline-block; */
+    text-decoration: none;
+    /* background-color: #dd2828; */
+    /* color: #000; */
+    /* padding: 15px 32px; */
+    /* font-size: 35px;
+    border-radius: 30px; */
+    /* font-family: 'Times New Roman', Times, serif; */
+    margin-left: 40px;
+}
+
+/* .btn1:hover{
+    background-color: #e2d62e98;
+} */
+
+/* .my_image, .my_cookies, .my_shake{
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+} */
+/* a:hover .my_image, .my_cookies, .my_shake{
+    opacity: 0.8;
+} */
+
+
+/* .btn2:hover{
+    background-color: #413212b9;
+}
+
+.btn3:hover{
+    background-color: #e01966bd;
+} */
+
+.container{
+    /* text-align: center; */
+    /* margin-top: 150px; */
+    margin: 50px 0 0 200px;
+    width: 70%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    /* gap: 10px; */
+}
+.container img{
+    width: 50%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.6);
+    transition: all ease-in-out 0.5s;
+}
+.container img:hover{
+    width: 80%;
+}
