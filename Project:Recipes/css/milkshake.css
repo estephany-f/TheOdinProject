@@ -1,15 +1,15 @@
 body{
     max-width: 600px;
     margin: auto;
-    color: #222121;
+    color: #222122;
     font-family: Arial;
     font-size: 18px;
     padding: 0.5rem;
-    background-color: #f3ec8ae5;
+    background-color: pink;
 }
 
 h1, h2{
-    background-color: #e2d62e;
+    background-color: #f3239c;
     padding: 10px;
     color: #000;
     font-family: Cambria;
@@ -22,7 +22,7 @@ h3{
     color: #000;
     font-size: 25px;
     text-align: center;
-    font-family:'Times New Roman';
+    font-family: 'Times New Roman';
 }
 
 div{
@@ -38,4 +38,3 @@ img{
 ul, ol{
     line-height: 45px;
 }
-
